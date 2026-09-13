@@ -1,4 +1,4 @@
-<img width="1080" height="1080" alt="EzTween Logo" src="https://github.com/user-attachments/assets/4fe8d4c7-7d19-4db2-928f-5892779777e2" />
+<img width="540" height="540" alt="EzTween Logo" src="https://github.com/user-attachments/assets/4fe8d4c7-7d19-4db2-928f-5892779777e2" />
 
 # How to use
 
